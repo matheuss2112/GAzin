@@ -1,0 +1,7 @@
+127.0.0.1 - - [26/Jul/2022:08:15:56 -0300] "GET / HTTP/1.1" 404 763
+0:0:0:0:0:0:0:1 - - [26/Jul/2022:08:19:49 -0300] "GET /gazin/Primeirapagina.xhtml HTTP/1.1" 404 793
+0:0:0:0:0:0:0:1 - - [26/Jul/2022:08:20:11 -0300] "GET /GAzin/Primeirapagina.xhtml HTTP/1.1" 200 413
+0:0:0:0:0:0:0:1 - - [26/Jul/2022:08:22:35 -0300] "GET /GAzin/Primeirapagina.xhtml HTTP/1.1" 200 1911
+0:0:0:0:0:0:0:1 - - [26/Jul/2022:08:31:50 -0300] "GET /GAzin/Primeirapagina.xhtml HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [26/Jul/2022:08:31:58 -0300] "GET /GAzin/Primeirapagina.xhtml HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [26/Jul/2022:08:32:42 -0300] "GET /GAzin/Primeirapagina.xhtml HTTP/1.1" 200 374
